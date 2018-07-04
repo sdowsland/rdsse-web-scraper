@@ -1,0 +1,12 @@
+{
+  "urls": [
+    "http://www.ncl.ac.uk/apl/staff/",
+    "http://www.ncl.ac.uk/sacs/staff/",
+    "http://www.ncl.ac.uk/nubs/staff/"
+  ],
+  "staffItem": "div.staff",
+  "jobTitleSelector": "div.name p strong",
+  "emailSelector": "div.details p a.email",
+  "linkSelector": "div.name p a",
+  "keyWordMatchText": ""
+}
